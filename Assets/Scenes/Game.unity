@@ -424,6 +424,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 812421424822133455, guid: 06318c93401bb4a41acd12785f1c6da4, type: 3}
+      propertyPath: projectileFiringPeriod
+      value: 0.05
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 06318c93401bb4a41acd12785f1c6da4, type: 3}
 --- !u!1001 &1293715420454010003
